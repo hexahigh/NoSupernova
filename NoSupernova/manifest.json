@@ -4,7 +4,8 @@
   "author": "Boofdev",
   "name": "NoSupernova",
   "uniqueName": "Boofdev.NoSupernova",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "owmlVersion": "2.9.5",
-  "dependencies": []
+  "dependencies": [],
+  "conflicts": ["xen.NewHorizons"]
 }

@@ -119,12 +119,13 @@ namespace NoSupernova
                     SEC = null;
                     return;
                 }
-
             };
 
             SDV = FindObjectOfType<SupernovaDestructionVolume>();
             SEC = FindObjectOfType<SupernovaEffectController>();
             deathManager = FindObjectOfType<DeathManager>();
+            //We need to do this anyway, so the shipisn't destroyed
+            SDV.SetActivation(false);
 
             // Disable timeloop and supernova deaths
             ModHelper.HarmonyHelper.AddPrefix<DeathManager>(nameof(DeathManager.KillPlayer), typeof(NoSupernova), nameof(NoSupernova.DeathManagerPrefix_KillPlayer));
