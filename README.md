@@ -3,7 +3,7 @@ This mod disables the supernova from happening, allowing you to take as much tim
 
 ## For the best experience this mod should be used with
 > - [No Dam Break](https://outerwildsmods.com/mods/nodambreak/)
-> - [I Don't Like Sand](https://outerwildsmods.com/mods/idontlikesand/)
+> - [~~I Don't Like Sand~~](https://outerwildsmods.com/mods/idontlikesand/) (Requires New Horizons and has a couple annoying bugs)
 
 ## Incompatible mods
 > - New Horizons
