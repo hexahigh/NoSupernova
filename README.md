@@ -6,6 +6,6 @@ This mod disables the supernova from happening, allowing you to take as much tim
 > - [~~I Don't Like Sand~~](https://outerwildsmods.com/mods/idontlikesand/) (Requires New Horizons and has a couple annoying bugs)
 
 ## Incompatible mods
-> - New Horizons
+> - New Horizons (Sorry)
 
 [![Install No Supernova](https://img.shields.io/endpoint?url=https%3A%2F%2Fouterwildsmods.com%2Fapi%2FBoofdev.NoSupernova%2Fbadge.json)](https://outerwildsmods.com/mods/nosupernova/)
